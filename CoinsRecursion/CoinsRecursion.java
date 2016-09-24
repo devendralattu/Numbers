@@ -31,3 +31,22 @@ public class CoinsRecursion {
 	}
 
 }
+
+/*
+Number = 17
+1 coins of 11 
+1 coins of 5 
+1 coins of 1 
+
+
+Number = 18
+1 coins of 11 
+1 coins of 5 
+2 coins of 1 
+
+
+Number = 19
+1 coins of 11 
+1 coins of 5 
+1 coins of 3 
+*/
