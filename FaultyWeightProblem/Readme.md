@@ -1,0 +1,1 @@
+Find the faulty medicinal bottle who has weight slightly different than its peers. Each medicinal bottle has 20 pills and each pill has weight of 1 gram. However, one of the bottle is faulty and each pill in that bottle has slightly higher weight. Find that bottle.
