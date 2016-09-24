@@ -1,0 +1,16 @@
+# Sample output for 2 rows and 3 columns. Note : S = Source and D = Destination
+# You can only move to the right or to the bottom of the grid.
+# Goal is to start from S and reach D and count all the unique possible paths.
+
+Enter n = 2
+Enter m = 3
+Taking n<m. Therefore, n = 2 & m = 3
+Grid will look like this before calculating all paths
+S 0 0 
+0 0 D 
+
+Grid will look like this after calculation of all paths
+0 0 0 
+1 1 0 
+
+Total number of paths = 3
